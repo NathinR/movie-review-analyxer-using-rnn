@@ -26,11 +26,11 @@ This project uses a deep learning model built with TensorFlow to classify movie 
 ### ✅ Features
 * Accepts user input movie reviews
 * Predicts and displays sentiment: Positive 😊 or Negative 😞
-*Runs seamlessly in Colab with live URL access via LocalTunnel
+* Runs seamlessly in Colab with live URL access via LocalTunnel
 
 ### 📌 Notes
-*This app is optimized for quick testing and prototyping in Colab.
-*To deploy publicly (like on Streamlit Cloud or HuggingFace Spaces), save all files and push this repo to GitHub first.
+* This app is optimized for quick testing and prototyping in Colab.
+* To deploy publicly (like on Streamlit Cloud or HuggingFace Spaces), save all files and push this repo to GitHub first.
 
 ## The UI(Streamlit):
 <img width="958" height="699" alt="Screenshot 2025-08-01 093508" src="https://github.com/user-attachments/assets/ad1e4dd8-8501-4dd4-8c02-39b47b272bab" />
